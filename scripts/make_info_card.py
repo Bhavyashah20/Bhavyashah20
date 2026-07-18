@@ -7,11 +7,11 @@ from pathlib import Path
 USER = "bhavyashah20@"
 HOST = "github"
 FIELDS = [
-    ("OS", "macOS (Darwin)"),
-    ("Role", "Software Engineer / ML"),
-    ("Stack", "Python, PyTorch, RL, TypeScript"),
-    ("Focus", "Reinforcement learning, simulation, quant tooling"),
-    ("Shell", "zsh"),
+    ("Role", "Research Assistant @ Georgia Tech FSIL"),
+    ("Edu", "B.Tech CS, SPIT Mumbai"),
+    ("Stack", "Python, PyTorch, LangChain, React, SQL"),
+    ("Focus", "Financial NLP, LLM agents, time-series forecasting"),
+    ("Papers", "3 (ICCCMLA'25, ICMI'26, SEGAN under review)"),
 ]
 
 FONT_SIZE = 13
